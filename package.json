@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.11.0",
+    "@nuxtjs/markdownit": "^1.2.9",
     "nuxt": "^2.13.0"
   },
   "devDependencies": {
